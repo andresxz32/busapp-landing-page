@@ -21,7 +21,7 @@ a {
   text-decoration: none !important;
 }
 a:hover {
-  color: #35b368 !important;
+  color: #3EE2FF !important;
 }
 .img-logo {
   max-width: 26%;
@@ -91,7 +91,7 @@ h6 {
   justify-content: center;
 }
 .navbar .active {
-  color: #35b368 !important;
+  color: #3EE2FF !important;
 }
 .navbar .navbar-brand {
 }
@@ -144,13 +144,13 @@ h6 {
   position: relative;
 }
 .banner {
-  background: url(images/busBG1.png) no-repeat 0% 0% / 100% 100%;
+  background: url(images/busBG2.png) no-repeat 0% 0% / 100% 100%;
   color: #ffffff;
   text-align: center;
   width: 100%;
 }
 .banner-overlay {
-  background: linear-gradient(to bottom, rgb(101 90 93 / 82%) 0%, #35b368 100%);
+  background: linear-gradient(to bottom, rgb(20 29 55 / 50%) 0%, #3EE2FF 100%);
   padding: 220px 0px 170px;
 }
 .banner h1 {
@@ -178,7 +178,7 @@ h6 {
   padding-bottom: 80px;
 }
 .section-title h3 {
-  color: #35b368;
+  color: #3EE2FF;
   text-transform: uppercase;
   font-weight: 300;
   margin-bottom: 22px;
@@ -196,7 +196,7 @@ h6 {
   width: 175px;
 }
 .section-title-line:after {
-  background: #35b368;
+  background: #3EE2FF;
   bottom: -1px;
   content: "";
   height: 2px;
@@ -231,7 +231,7 @@ h6 {
   margin-bottom: 5px;
 }
 .sub-title-paragraph h5 {
-  color: #35b368;
+  color: #3EE2FF;
 }
 .sub-title-paragraph p {
   padding-top: 20px;
@@ -240,7 +240,7 @@ h6 {
   line-height: 25px;
 }
 .anchor-btn {
-  background: #35b368;
+  background: #3EE2FF;
   padding: 10px 20px;
   border: none;
   cursor: pointer;
@@ -477,7 +477,7 @@ h6 {
   margin-bottom: 25px;
 }
 .testimonials h5 {
-  color: #35b368;
+  color: #3EE2FF;
 }
 .testimonials h6 {
   color: #ffffff;
@@ -497,7 +497,7 @@ h6 {
 }
 .info-box .icon i {
   font-size: 20px;
-  color: #35b368;
+  color: #3EE2FF;
 }
 .info-box .content {
   display: inline-block;
@@ -522,7 +522,7 @@ h6 {
   color: #fff;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background: #35b368;
+  background: #3EE2FF;
   padding: 12px 45px;
   font-size: 15px;
   border-radius: 30px;
